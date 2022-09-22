@@ -3,7 +3,6 @@ public class Main {
 
         //Задача 1.
         System.out.println("Задача 1.");
-        System.out.println("");
         int amountInt = 1000;
         System.out.println("Значение переменной amountInt с типом int равно " + amountInt);
         byte amountByte = 1;
